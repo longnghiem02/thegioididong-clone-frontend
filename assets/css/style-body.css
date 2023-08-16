@@ -739,6 +739,9 @@ h3{
     line-height: 22px;
     padding: 8px 0 0;
 }
+.button-suggest:hover {
+    cursor: pointer;
+}
 .button-suggest.button-active{
     background: linear-gradient(64.85deg,#fca600 23.67%,#ffd41d 106.12%);
 }
